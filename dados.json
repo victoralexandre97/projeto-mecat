@@ -1,0 +1,186 @@
+{
+  "gerado_em": "2026-08-11T22:34:23",
+  "total_registros": 18,
+  "ocorrencias": [
+    {
+      "hash_id": "30830574f345bd596505fed3fdf9fd9b",
+      "colaborador": "Weder",
+      "data_ausencia": "2026-07-24",
+      "turno": "Integral",
+      "motivo_original": "- Weder – Informou se ausentar hoje, dia 24/07/26, às 16:00 da tarde. – O carro apresentou falha mecânica e ele levará na oficina as 16:00. Solicitação anexa. Obs: Hoje eu trouxe o Weder de carona, o carro dele pousou aqui na Mecat pois apr 6 anexos",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "5d155197382b015314ec41f56e1a9465",
+      "colaborador": "Ronne Vonn",
+      "data_ausencia": "2026-07-27",
+      "turno": "Integral",
+      "motivo_original": "- Ronne Vonn – Informou se ausentar hoje, dia 27/07/26, às 15:00 da tarde. – Teve que ir ao dentista. Orientado a trazer o atestado. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "f65a97647b1a403e37502005ca9e93fa",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-07-28",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou se ausentar hoje, dia 28/07/26, às 17:00 da tarde. – Imprevisto pessoal. Solicitação e orientação anexa.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "51e8afa4fddd80eca485cdd6dec99d41",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-07-29",
+      "turno": "Manhã",
+      "motivo_original": "- Weverson – Informou se atrasar hoje, dia 29/07/26, período da manhã. – Irá ao dentista. Solicitação e orientação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "2d98dab39580b238cede6cc4a3527c26",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-07-31",
+      "turno": "Manhã",
+      "motivo_original": "- Weverson – Informou se ausentar hoje, dia 31/07/26, período da manhã. – Irá ao oftalmologista. Solicitação e orientação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "d8c2296a38c6da1289baf73c772dbfdb",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-08-01",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou a ausência dele no sábado dia 01/08, enviou áudio e foto do olho inchado – Informou estar como olho inchado e foi ao médico. Não recebi atestado do sábado, anexo atestado da sexta feira dia 31/07.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "b64dd4bbc1ccd377b23d96223cefb19f",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-08-03",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou se atrasar hoje, dia 03/08/26, período da manhã. – Irá ao banco ver questão da pensão por morte. Solicitação e orientação anexa.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "5cf91ab927fa625b96d1ae6758853248",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-08-03",
+      "turno": "Tarde",
+      "motivo_original": "- Francisco – Informou a ausência dele hoje, dia 03/08, período da tarde – Informou ir a uma consulta com o ortopedista. Solicitação e orientação anexa. Obs: Coloquei anexo a orientação ao Weverson sobre atestado, portanto o mesmo está bem orientado, não podendo “ficar com possíveis desculpas”.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "012967f3058cfa092d00ba8c8336b681",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-08-03",
+      "turno": "Manhã",
+      "motivo_original": "- Ronney – Informou sobre a ausência temporária dele hoje, dia 03/08, período da manhã. – Informou verbalmente e depois formalizou por mensagem de celular. Teve ligação da esposa pedindo ajuda em relação ao filho que estava passando mal.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "b5a96fa5275304d8f12445ada95a9b60",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-08-04",
+      "turno": "Manhã",
+      "motivo_original": "- José Erinaldo – Informou se atrasar amanhã, dia 04/08/26, período da manhã. – Irá ao médico realizar consulta. Solicitação e orientação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "7a37a8c81ae56be9d088b5ea23224b50",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-08-05",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou se atrasar hoje, dia 05/08/26, período da manhã. – Irá ao banco ver questão da pensão, finalizar tratativa. Solicitação anexa.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "a5ec613b38307e0435371971ea9a612b",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-08-06",
+      "turno": "Tarde",
+      "motivo_original": "- Ronney – Informou possibilidade se atrasar hoje, dia 06/08/26, período da tarde no retorno do almoço. – Foi fazer Raio X do dente. Solicitação anexa (enviou em áudio).",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "3203bfc04ad7228433edab234b7de350",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-08-07",
+      "turno": "Manhã",
+      "motivo_original": "- Francisco – Informou se ausentar hoje, dia 07/08/26, período da manhã. – Irá ao colégio buscar a filha que está passando mal devido ao seu “ciclo”. Enviou a foto na porta do colégio, anexa e orientações.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "7e99bb2375fb6916158750ec674db9d7",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-08-07",
+      "turno": "Tarde",
+      "motivo_original": "- José Erinaldo – Informou se ausentar hoje, dia 07/08/26, período da tarde. – Irá em um exame médico. - Solicitação anexa (enviou em áudio).",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "6f4199d2c0a405476f89a544534eb489",
+      "colaborador": "Marcelo",
+      "data_ausencia": "2026-08-07",
+      "turno": "Manhã",
+      "motivo_original": "- Marcelo – Informou se ausentar amanhã, dia 07/08/26, período da manhã. – Irá ao colégio em um evento com o filho. Solicitação anexa e orientações anexa.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "4a631bae482b50e7f581030e0484c879",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-08-07",
+      "turno": "Tarde",
+      "motivo_original": "- Ronney – Informou se ausentar hoje, dia 07/08/26, período da tarde brevemente. – Pediu para se ausentar para solucionar um problema pessoal. Como o serviço está sob controlei fiz a liberação, contudo deixei orientações. Solicitação anexa (enviou em áudio).",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "079a26fee1730b233b981ec0d4bc26a5",
+      "colaborador": "Sinvaldo",
+      "data_ausencia": "2026-08-10",
+      "turno": "Manhã",
+      "motivo_original": "- Sinvaldo – Informou se ausentar segunda feira, dia 10/08/26, período da manhã. – Irá em uma viagem em família e retornará na segunda cedo, como tem saldo positivos de horas, fica autorizado a saída para utilizar o banco. Solicitação anexa.",
+      "categoria": "Banco de Horas / Folga",
+      "comprovante": "Sim",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "1c522a09f58c004ec4ef068be18b57a6",
+      "colaborador": "Vinícius",
+      "data_ausencia": "2026-08-14",
+      "turno": "Integral",
+      "motivo_original": "Day Off planejado referente ao colaborador Vinícius do setor de CNC, ficando para o dia 14/08",
+      "categoria": "Banco de Horas / Folga",
+      "comprovante": "Não",
+      "arquivo_origem": "email_agosto_2026.pdf"
+    }
+  ]
+}

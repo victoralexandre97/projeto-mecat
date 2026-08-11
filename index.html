@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MECAT | Painel de Ausências</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="signage-shell">
+
+  <!-- ===================== HEADER ===================== -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">MECAT</div>
+      <div class="brand-sub">Painel de Ausências &amp; Atrasos</div>
+    </div>
+
+    <div class="filters" id="filters">
+      <div class="filter-group">
+        <label for="f-ano">Ano</label>
+        <select id="f-ano"></select>
+      </div>
+      <div class="filter-group">
+        <label for="f-mes">Mês</label>
+        <select id="f-mes"></select>
+      </div>
+      <div class="filter-group">
+        <label for="f-colaborador">Colaborador</label>
+        <select id="f-colaborador"></select>
+      </div>
+      <div class="filter-group">
+        <label for="f-categoria">Categoria</label>
+        <select id="f-categoria"></select>
+      </div>
+      <button id="f-reset" class="btn-reset" title="Limpar filtros">✕ Limpar</button>
+    </div>
+
+    <div class="status-block">
+      <div class="clock" id="clock">--:--:--</div>
+      <div class="status-pill" id="status-pill">
+        <span class="dot"></span> DADOS ATUALIZADOS
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== KPIs ===================== -->
+  <section class="kpi-row">
+    <div class="kpi-card">
+      <div class="kpi-icon">📋</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-total">0</div>
+        <div class="kpi-label">Total de Solicitações</div>
+      </div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">👥</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-colaboradores">0</div>
+        <div class="kpi-label">Colaboradores Afetados</div>
+      </div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-icon">🩺</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-medico">0</div>
+        <div class="kpi-label">Ausências por Motivo Médico</div>
+      </div>
+    </div>
+    <div class="kpi-card kpi-highlight">
+      <div class="kpi-icon">🏆</div>
+      <div class="kpi-body">
+        <div class="kpi-value" id="kpi-top-nome">—</div>
+        <div class="kpi-label">Colaborador com Mais Registros <span id="kpi-top-qtd" class="kpi-badge">0</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== MAIN GRID ===================== -->
+  <section class="main-grid">
+
+    <div class="panel panel-donut">
+      <div class="panel-title">Análise por Categoria</div>
+      <div class="chart-wrap">
+        <canvas id="chart-categoria"></canvas>
+      </div>
+    </div>
+
+    <div class="panel panel-bars">
+      <div class="panel-title">Evolução Mensal</div>
+      <div class="chart-wrap">
+        <canvas id="chart-mensal"></canvas>
+      </div>
+    </div>
+
+    <div class="panel panel-table">
+      <div class="panel-title">Últimas Solicitações</div>
+      <div class="table-wrap">
+        <table id="tabela-solicitacoes">
+          <thead>
+            <tr>
+              <th>Data</th>
+              <th>Colaborador</th>
+              <th>Turno</th>
+              <th>Categoria</th>
+              <th>Comprovante</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-body">
+            <!-- preenchido via JS -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </section>
+
+  <footer class="footbar">
+    <span id="footer-info">Fonte: dados.json — pipeline automatizado via GitHub Actions</span>
+  </footer>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
