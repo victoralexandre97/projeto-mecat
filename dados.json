@@ -1,7 +1,777 @@
 {
-  "gerado_em": "2026-08-11T22:34:23",
-  "total_registros": 18,
+  "gerado_em": "2026-08-18T01:11:31",
+  "total_registros": 103,
   "ocorrencias": [
+    {
+      "hash_id": "5cd33af4b3a7860996658e3c774187ab",
+      "colaborador": "Pedro Paulo",
+      "data_ausencia": "2026-01-26",
+      "turno": "Manhã",
+      "motivo_original": "- Pedro Paulo – Informou breve atraso hoje dia 26/01 período da manhã. – Manutenção no veículo.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "97c573b262795ab6d1c9e641e26ed0ad",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-02-09",
+      "turno": "Integral",
+      "motivo_original": "- Ronney – Informou que irá resolver um assunto pessoal no horário do almoço, na data de hoje dia 09/02/26, e há a possibilidade de atraso no retorno, porém não passa das 14:00 horas. Se caso resolver rápido ele retorna no horário normal.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "2bf62f1f12c653f5ab0532e5685a56f6",
+      "colaborador": "Everson",
+      "data_ausencia": "2026-02-24",
+      "turno": "Manhã",
+      "motivo_original": "- Everson – Informou chegar atrasado hoje, dia 24/02/26, período da manhã. – Teve problema no carro vindo para Mecat. Chegou por volta das 08:17.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "2e2079eed5b7f4b6c2491866e6f5d6ed",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-02-25",
+      "turno": "Manhã",
+      "motivo_original": "- Leonardo – Informou chegar atrasado hoje, dia 25/02/26, período da manhã. – Informou ter um imprevisto, emergência, não detalhou contudo enviou áudio as 7:28 avisando.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "2b4f8201b0cbf772a6aa274837ba3f2f",
+      "colaborador": "Roney",
+      "data_ausencia": "2026-02-26",
+      "turno": "Tarde",
+      "motivo_original": "- Roney – Informou através do líder Reginaldo que irá se atrasar no retorno do almoço hoje, dia 26/02/26, período da tarde. – Teve um imprevisto com o pai e teve que levá-lo (pai) ao médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "0dfb36b330ef0d567c7ef4f81724f698",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-02-27",
+      "turno": "Integral",
+      "motivo_original": "- Edielson – Informou atrasar no retorno do almoço hoje, dia 27/02/26. – Teve um imprevisto com a questão do financiamento da casa e foi em Trindade resolver.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "9b96dd837293d050fbbb6c1132d0f7bf",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-03-02",
+      "turno": "Integral",
+      "motivo_original": "- Ronney – Informou atrasar no retorno do almoço hoje, dia 02/03/26. – Precisou resolver assunto relacionado a documentação do carro e retornará por volta das 15:00 horas. 104",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "20bfae20a69653df360290778f68b3de",
+      "colaborador": "Ewerson",
+      "data_ausencia": "2026-03-03",
+      "turno": "Integral",
+      "motivo_original": "- Ewerson – Informou atrasar no retorno do almoço hoje, dia 03/03/26. – PO avô passou mal repentino e o mesmo foi leva-lo ao médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "1dfa217466d7898ccffeb3a8cd131131",
+      "colaborador": "Ancelmo",
+      "data_ausencia": "2026-03-09",
+      "turno": "Manhã",
+      "motivo_original": "- Ancelmo – Informou atrasar hoje, dia 09/03/26, período da manhã. – Teve um problema no veículo de transporte e levou no período da manhã para arrumar.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "68af95626cd952af93741321502b4237",
+      "colaborador": "Wewerton",
+      "data_ausencia": "2026-03-09",
+      "turno": "Tarde",
+      "motivo_original": "- Wewerton – Informou atrasar hoje, dia 09/03/26, período da tarde. – Teve que ir ao conselho tutelar em Guapó, relacionado ao filho.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "6577b0bc79d5ed2e9435b1a5380abdef",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-03-10",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou ausentar amanhã, dia 10/03/26. – Acompanhará a esposa no médico, entre consultas e exames de radioterapia.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "4f97e03144a88be2e4c7a40b1086b024",
+      "colaborador": "Ronne Vonn",
+      "data_ausencia": "2026-03-12",
+      "turno": "Integral",
+      "motivo_original": "- Ronne Vonn – Informou ausentar hoje, dia 12/03/26, as 17:00 horas – Consulta médica.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "c58fe185ae3adcaf5477e02bba68e4b7",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-03-13",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou ausentar hoje, dia 13/03/26, entre os horários das 10:00 às 15:00 – Ir na clínica de radioterapia da esposa buscar e alinhar sobre o atestado. Resolver problema em relação a conta no banco Caixa.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "49e0038592966bb04daf7f595d056c9d",
+      "colaborador": "Ewerson",
+      "data_ausencia": "2026-03-16",
+      "turno": "Manhã",
+      "motivo_original": "- Ewerson – Informou atrasar hoje, dia 16/03/26, período da manhã. – Teve que ir ao cartório e após ao Fórum. Observações em relação a sábado dia 14/03. - O Ewerson estava previsto até as 14:30, porém auxiliou o Francisco e trabalhou direto até as 13:00, sem intervalo almoço. - O Francisco permaneceu até as 15:00, sem intervalo de almoço, devido a demanda adicional. Então as horas foram contadas direto.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "1543806cd78f9c104269527ccbc15686",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-03-17",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou ausentar hoje, dia 17/03/26, entre os horários das 12:00 às 16:00 – Ir resolver assuntos referente a conta bancária.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "7af7af601ec0b5634285a95337ca7db1",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-03-17",
+      "turno": "Integral",
+      "motivo_original": "- Francisco – Informou ausentar, dia 17/03/26, após 12:00 – Ir resolver assuntos com a filha (passando mal).",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "7b9587dc53bfd39f9a45792faa3be2ed",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-03-17",
+      "turno": "Integral",
+      "motivo_original": "- Ronney – Informou ausentar hoje, dia 17/03/26, após às 15:00 – Levar o pai no médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "a6cca3b76b9a4b98571ee85370533d05",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-03-19",
+      "turno": "Integral",
+      "motivo_original": "- Francisco – Informou ausentar, dia 19/03/26, após 13:00 – Ir resolver assuntos pessoais (solicitação anexa). Obs: Da parte da produção não vejo problema em liberar, o setor de solda nesta semana está tranquilo, podendo então ser feita a compensação via banco de horas..",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "50510d1848dc1c872c62e437beb6fe56",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-03-20",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou antecipado o atraso de hoje, dia 20/03/26 – Teve um atraso de 6 min após a tolerância de 10 min. Avisou que teria o atraso pois veio de Trindade e teve imprevisto no trânsito.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "31bdccba0fe707decf78300d8f134ec3",
+      "colaborador": "Pedro Paulo",
+      "data_ausencia": "2026-03-23",
+      "turno": "Manhã",
+      "motivo_original": "- Pedro Paulo – Informou ausentar, dia 23/03/26, período da manhã – Irá em uma consulta médica.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "1327355e36a80bc07f71f3d9b272fd79",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-03-24",
+      "turno": "Integral",
+      "motivo_original": "- Edielson - Informou ausentar hoje, dia 24/03/26, após as 16:37 – Não detalhou, imprevisto pessoal.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "09ddefb13ac45bb576d4fa81512a4b68",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-03-24",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou ausentar hoje, dia 24/03/26, entre 13:00 e 15:00 – Solicitou ir ao banco para verificar sobre a conta e recebimento da aposentadoria.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "6bca33ff7c305a213bded6ecb075ee1c",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-03-24",
+      "turno": "Flexível/Horas",
+      "motivo_original": "- Ronney – Informou ausentar hoje, dia 24/03/26, após as 17:40 – Verificar assuntos pessoais relacionado a documentação. Solicitou abater no banco de horas.",
+      "categoria": "Banco de Horas / Folga",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "10d4586b5c6ff5496fda2d09fae48f1c",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-03-25",
+      "turno": "Manhã",
+      "motivo_original": "- Francisco – Informou ausentar amanhã, dia 25/03/26, período da manhã entre 9:00 e 12:00 – Irá no colégio da filha buscar itens solicitados pela coordenação.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "55a15e37660201355692907507a8e18d",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-03-27",
+      "turno": "Integral",
+      "motivo_original": "- Ronney – Informou ter um atraso hoje, dia 27/03/26, no retorno do almoço – Foi ao banco e teve um imprevisto. Obs: Ele avisou o líder Reginaldo, que me repassou a informação.",
+      "categoria": "Burocrático/Financeiro",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "24ec6f906f667d1302df330e251652d2",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-03-30",
+      "turno": "Integral",
+      "motivo_original": "- Leonardo – Informou ausentar hoje, dia 30/03/26, as 11:00 horas. – Informou ter uma emergência familiar. Previsão retornar após almoço.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "c95bd41643fe65948ba7bad9bfec75d8",
+      "colaborador": "Ewerson",
+      "data_ausencia": "2026-03-31",
+      "turno": "Integral",
+      "motivo_original": "- Ewerson – Informou ausentar hoje, dia 31/03/26, as 10:30. – Informou ir realizar exame médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "cd0f51ee88e35f0c26f74fa336f7f0ed",
+      "colaborador": "Ewerson",
+      "data_ausencia": "2026-04-07",
+      "turno": "Manhã",
+      "motivo_original": "- Ewerson – Informou se atrasar hoje, dia 07/04/26, período da manhã. – Está com o filho no médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "c56d4363aec49f021fd1ee22685e10bf",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-04-07",
+      "turno": "Manhã",
+      "motivo_original": "- Leonardo – Informou se atrasar hoje, dia 07/04/26, período da manhã. – Imprevisto pessoal, não detalhou.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "bf928e3c87abed911cdd2313e89b16a8",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-04-08",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou se atrasar hoje, dia 08/04/26. – A esposa está com um quadro de saúde instável, foi acompanhá-la no médico hoje.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "e5f0bf64664075522874809346f937a7",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-04-08",
+      "turno": "Integral",
+      "motivo_original": "- Francisco – Informou se atrasar hoje, dia 08/04/26, no retorno do almoço. – Passando mal com dor na coluna, foi ao médico tomar injeção.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "163e45f7903fcee5cd7cb0ab65b7c56e",
+      "colaborador": "Marcelo",
+      "data_ausencia": "2026-04-08",
+      "turno": "Integral",
+      "motivo_original": "- Marcelo – Informou se atrasar hoje, dia 08/04/26. – Passando mal com garganta inflamada, por conta disso não está conseguindo se alimentar. Vai ao médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "3b038379b8053d4ef511f8793685b971",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-04-09",
+      "turno": "Manhã",
+      "motivo_original": "- Leonardo – Informou se atrasar hoje, dia 09/04/26, 10 – 20 min na chegada no período da manhã. – Justificativa anexa. Foi chamado pela professora da escola da filha(o).",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "8a701430c2d2bc886c263ab9e7941fb8",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-04-27",
+      "turno": "Manhã",
+      "motivo_original": "- José Erinaldo – Informou se ausentar brevemente hoje, dia 27/04/26, período da manhã – Problema familiar.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "0c7a019a64ba4aa0e92a6ca80a959281",
+      "colaborador": "Roney",
+      "data_ausencia": "2026-04-28",
+      "turno": "Manhã",
+      "motivo_original": "- Roney – Informou se ausentar brevemente hoje, dia 28/04/26, período da manhã entre 10:00 e 11:00 horas – Assuntos pessoais.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "919befa325f597fa537b8b883606695f",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-04-29",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou se ausentar amanhã, dia 29/04/26, período da manhã – Levar a esposa em uma consulta.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "3c4ef926a1a7892b790ccab9be0de654",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-04-30",
+      "turno": "Tarde",
+      "motivo_original": "- Leonardo – Informou se ausentar agora período da tarde, dia 30/04/26, previsão de retorno às 15:00 – Problema familiar.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "c319f5eda49af5cb357142986aa28aba",
+      "colaborador": "Vinícius",
+      "data_ausencia": "2026-04-30",
+      "turno": "Integral",
+      "motivo_original": "- Vinícius – Informou ter um atraso hoje, dia 30/04/26, no retorno do almoço – Imprevisto pessoal.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "b34af256932e5526109c6c1e91550144",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-04",
+      "turno": "Tarde",
+      "motivo_original": "- Edivaldo – Informou se ausentar hoje período da tarde, dia 04/05/26 – Acompanhar esposa na consulta.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "9db84ca9ee1a1d59aeac0ae01ed0939d",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-05",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou se ausentar amanhã, dia 05/05/26 – Acompanhar esposa em exames e consultas.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "5e5d0de18d5160aec9145dd5ebaf2f35",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-06",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou se ausentar quarta-feira, dia 06/05/26 – Acompanhar a esposa em consultas, exames e cirurgia.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "f126bc0d2201ed5b224da41d78ceb80f",
+      "colaborador": "Vinícius",
+      "data_ausencia": "2026-05-06",
+      "turno": "Integral",
+      "motivo_original": "- Vinícius – Informou se atrasar no retorno do almoço, hoje, dia 06/05/26 – Está com celular na manutenção e irá buscar no horário do almoço em Goiânia, portanto há uma possiblidade do atraso no retorno. Solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "4e629e49704f90ee8dbeaaf7a2f46af5",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-07",
+      "turno": "Integral",
+      "motivo_original": "- Edivaldo – Informou se ausentar quinta-feira, dia 07/05/26 – Acompanhar a esposa em consultas, exames e cirurgia.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "373f6b373dc9126ab74e1cd8f94a850d",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-05-07",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou se ausentar hoje, dia 07/05/26, as 15:30 – A esposa fez uma cirurgia hoje, ele irá ao hospital onde a esposa está internada. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "f3cae180cc9750eb5a27b894ae960022",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-08",
+      "turno": "Tarde",
+      "motivo_original": "- Edivaldo – Informou antecipado sobre o atraso de hoje, dia 08/05/26 – Teve que resolver assunto pessoal em Abadia referente a esposa. - Edivaldo – Solicitou se ausentar hoje, dia 08/05/26, no período da tarde – Irá em Goiânia comprar um item ortopédico por solicitação do médico. (Justificativa anexa).",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "f2845839c4208a8dafc0c15b45e53c51",
+      "colaborador": "Ewerson",
+      "data_ausencia": "2026-05-08",
+      "turno": "Integral",
+      "motivo_original": "- Ewerson – Informou se ausentar hoje, dia 08/05/26 – A esposa teve complicações e ele ficará no hospital com ela. (Justificativa anexa).",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "8ca8c8ae2bacc5fc68f7d0f45d0cbcab",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-05-08",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou se ausentar amanhã, dia 08/05/26, as 15:30 – Ir ao hospital onde a esposa está internada. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "04a841e09da92fc615972ab2680a462e",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-21",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou antecipado sobre o atraso de hoje, dia 21/05/26 – Foi ao posto de saúde com a esposa. Justificativa anexa. - Edielson – Solicitou se ausentar amanhã , dia 21/05/26, no período da manhã – Irá acompanhar a vistoria da casa que comprou. Justificativa anexa.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "4b1f328c6a623ef1e2db3c299ecf3d46",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-22",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou se ausentar hoje, dia 22/05/26, período da manhã – Acompanhar a esposa em consultas, solicitação(áudio) anexo.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "86126951c04f59909bf13f36e7b39f9c",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-05-26",
+      "turno": "Manhã",
+      "motivo_original": "- Edivaldo – Informou a ausência de ontem, dia 26/05/26 – Foi ao médico com a esposa. Justificativa anexa. - Sinvaldo – Solicitou se ausentar na quinta feira, dia 28/05/26, no período da manhã. – Irá resolver assunto referente a carteira de habilitação. Solicitou verbalmente.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "9434ad567f89bf0c028a3836296306ad",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-05-27",
+      "turno": "Integral",
+      "motivo_original": "- Edielson – Informou se ausentar hoje após almoço, dia 27/05/26 – Pai está no hospital então solicitou ausência para ir visitá-lo e prestar ajuda. Justificativa anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "3748f6eb2a419abec6e16c5fe964f2e0",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-05-27",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou se ausentar hoje após almoço, dia 27/05/26 – Está comprando uma casa pela CAIXA e foi chamado para ver questões de documentação. Justificativa anexa(áudio).",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "4f690e767e50022664fc26a8ae5cbeb8",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-06-01",
+      "turno": "Tarde",
+      "motivo_original": "- Edielson – Informou se ausentar hoje, dia 01/06/26, período da tarde – O mesmo solicitou ir ao banco. Justificativa anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "8fa0b830157c896849801e5cf7d9f53f",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-06-01",
+      "turno": "Manhã",
+      "motivo_original": "- José Erinaldo - Informou se ausentar segunda feira, dia 01/06/26, período da manhã – O mesmo solicitou ir ao médico.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "c59e1004066118d54be2d6ec41d3aa29",
+      "colaborador": "Sinvaldo",
+      "data_ausencia": "2026-06-01",
+      "turno": "Integral",
+      "motivo_original": "- Sinvaldo – Informou se ausentar segunda feira, dia 01/06/26, por volta das 16:00 horas – O mesmo solicitou ir ao médico. Referente a carteira de motorista.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "081f7827a7e5eb8e8fa5007772390164",
+      "colaborador": "Weder",
+      "data_ausencia": "2026-06-01",
+      "turno": "Tarde",
+      "motivo_original": "- Weder – Informou se ausentar hoje, dia 01/06/26, período da tarde – O mesmo teve questões de ordem familiar. Justificativa anexa.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "fc70fb2faa22b8eee10f3c81b2b5ea5b",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-06-10",
+      "turno": "Tarde",
+      "motivo_original": "- Edielson – Informou se ausentar hoje, dia 10/06/26, período da tarde – Irá ao banco, finalizando retornará. O mesmo já é orientado quanto a apresentação de justificativas. Solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "1ba1b1e1f7cf5c0b21f0ba6a704433c3",
+      "colaborador": "Edison",
+      "data_ausencia": "2026-06-10",
+      "turno": "Manhã",
+      "motivo_original": "- Edison – Informou se ausentar amanhã, dia 10/06/26, período da manhã – Irá ao dentista, manutenção. Justificativa anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "6d779280b8550d9dd952bfd811ca93b4",
+      "colaborador": "Roney",
+      "data_ausencia": "2026-06-10",
+      "turno": "Integral",
+      "motivo_original": "- Roney – Informou se atrasar no retorno do almoço hoje, dia 10/06/26 – Irá resolver uma pendência pessoal, acredita dar tempo no horário do almoço, contudo para qualquer imprevisto ele avisou que pode atrasar um pouco. Solicitou se possível, caso tenha o imprevisto, abater no banco. 53",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "2ef7c021c452a80a383fd31cf0ee6a63",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-06-11",
+      "turno": "Integral",
+      "motivo_original": "- Leonardo – Informou se atrasar hoje, dia 11/06/26, na entrada. – Teve problema com o carro, enviou áudio.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "6535bd9f5fcf135607f8edc5c87af2dc",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-06-11",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou se atrasar hoje, dia 11/06/26, na entrada. – Teve problema pessoal, está a caminho.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "8a8a19fbff5a128a7f4295c1846acdf6",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-06-15",
+      "turno": "Tarde",
+      "motivo_original": "- Edielson – Informou se ausentar hoje, dia 15/06/26, período da tarde. – Irá ao banco, solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "610a49ccda3630fb99468ac2727c0417",
+      "colaborador": "Marcos Vinícius",
+      "data_ausencia": "2026-06-15",
+      "turno": "Integral",
+      "motivo_original": "- Marcos Vinícius – Informou na sexta, que irá ausentar hoje , dia 15/06, as 11:00 horas. - Irei ao médico em Goiânia.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "50b3850821d76ed73329665ee6292bf9",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-06-18",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou sair mais cedo hoje, dia 18/06/26, as 11:30 . – Irá ao terapeuta, consulta de terapia. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "eb726a64f66445506bfbfdfd0adbaf10",
+      "colaborador": "Edielson",
+      "data_ausencia": "2026-06-26",
+      "turno": "Integral",
+      "motivo_original": "- Edielson – Informou se ausentar hoje, dia 26/06/26. – Irá ao médico motivos de saúde. Solicitação anexa. Informei pessoalmente para lhe trazer o atestado médico. No whatsapp reforcei a mesma situação.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "01b9210faa874ef330a66da7479448d2",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-06-26",
+      "turno": "Integral",
+      "motivo_original": "- Weverson – Informou se atrasar hoje, dia 26/06/26, no retorno do almoço. – Teve problema de saúde, mensagem anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "3a85629b3e3da909a476bdbce7613a2e",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-07-01",
+      "turno": "Tarde",
+      "motivo_original": "- Francisco – Informou antecipadamente ausência na data de ontem, dia 01/07/26, período da tarde. – Teve a necessidade de ir ao banco. Solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "8311af9cf3bf719612caaa71a08de068",
+      "colaborador": "Sinvaldo",
+      "data_ausencia": "2026-07-01",
+      "turno": "Manhã",
+      "motivo_original": "- Sinvaldo – Informou se atrasar amanhã, dia 01/07/26, período da manhã. – Irá em uma consulta médica. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "41ec8e5be60da3709785157acb42f72a",
+      "colaborador": "Vinícius",
+      "data_ausencia": "2026-07-03",
+      "turno": "Integral",
+      "motivo_original": "- Vinícius – Informou hoje, que irá tirar a folga no dia 03/07 – Ele ganhou a premiação de folga no dia da festa e já planejou retirar ela no dia 03/07.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Não",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "a234a5ae209ed5e1f444119f0ab137f5",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-07-09",
+      "turno": "Tarde",
+      "motivo_original": "- Leonardo – Informou se ausentar hoje, dia 09/07/26, período da tarde. – Teve problemas no carro e foi levar para arrumar. Informado para trazer algum comprovante. Solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "14b4414257edb85e347a0c08a8a404c1",
+      "colaborador": "Leonardo",
+      "data_ausencia": "2026-07-14",
+      "turno": "Manhã",
+      "motivo_original": "- Leonardo – Informou se atrasar hoje, dia 14/07/26, período da manhã. – Teve problema com a moto. Solicitação anexa. Obs: Na data de ontem(13/07/26) o Weverson faltou, como havia de certa forma avisado a Cleide peço que deixe como horas negativas. Na data de hoje(14/07/26) eu não o vi e não tenho nenhum informativo ou aviso de falta, para este caso pode tomar medida de cortes e outros que for dentro da legalidade. 26",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "238de140539bfbda52800a534a1b3968",
+      "colaborador": "Ronne Vonn",
+      "data_ausencia": "2026-07-15",
+      "turno": "Tarde",
+      "motivo_original": "- Ronne Vonn – Informou se atrasar hoje, dia 15/07/26, período da tarde. – Irá no Detran, finalizando retornará ao trabalho. Solicitação anexa.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "40d39d0985e86896eaded3250e465c22",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-07-20",
+      "turno": "Manhã",
+      "motivo_original": "- Francisco – Informou se atrasar hoje, dia 20/07/26, período da manhã. – Informou ir em uma consulta médica, realizar checkup. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "df53501fef527fc93947c1656e269edb",
+      "colaborador": "Weverson",
+      "data_ausencia": "2026-07-20",
+      "turno": "Tarde",
+      "motivo_original": "- Weverson – Informou se ausentar hoje, dia 20/07/26, período da tarde. – Informou estar com muita dor de dente por conta do ciso que retirou. Foi orientado a ir ao médico e trazer atestado. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "51789d9a2d046a1ccc8a8e83a47e9211",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-07-22",
+      "turno": "Manhã",
+      "motivo_original": "- Francisco – Informou se ausentar hoje, dia 22/07/26, período da manhã. – Ele havia solicitado verbalmente, pedi que mandasse a mensagem via whatsapp pra eu formalizar. 15 Questionei sobre o atestado médico e o mesmo disse ter esquecido, então neste caso vai para o banco de horas. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "7a8e413068f492871663cd8875d25820",
+      "colaborador": "Sidicley",
+      "data_ausencia": "2026-07-23",
+      "turno": "Manhã",
+      "motivo_original": "- Sidicley – Informou se ausentar, dia 23/07/26, período da manhã às 11:00 horas. – Consulta médica, dermatologista. Solicitação anexa. 18",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "ec4fe0f0fb75f72c312fae8a0934a8f8",
+      "colaborador": "Sidicley",
+      "data_ausencia": "2026-07-24",
+      "turno": "Tarde",
+      "motivo_original": "- Sidicley – Informou se ausentar, dia 24/07/26, período da tarde às 15:00 horas. – Consulta médica, oftalmologista. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
     {
       "hash_id": "30830574f345bd596505fed3fdf9fd9b",
       "colaborador": "Weder",
@@ -11,6 +781,16 @@
       "categoria": "Outros / Imprevistos",
       "comprovante": "Sim",
       "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "611835559a658cd9e10aa945ec736228",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-07-27",
+      "turno": "Manhã",
+      "motivo_original": "- José Erinaldo – Informou se ausentar, dia 27/07/26, período da manhã. – Consulta médica. Orientado com relação ao atestado. Solicitação anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
     },
     {
       "hash_id": "5d155197382b015314ec41f56e1a9465",
@@ -163,6 +943,16 @@
       "arquivo_origem": "email_agosto_2026.pdf"
     },
     {
+      "hash_id": "5b1eed68587223b682dd6c2a99f9d966",
+      "colaborador": "José Erinaldo",
+      "data_ausencia": "2026-08-10",
+      "turno": "Manhã",
+      "motivo_original": "- José Erinaldo – Informou se atrasar segunda, dia 10/08/26, período da manhã. – Foi ao fisioterapeuta. Solicitação e orientações anexas.",
+      "categoria": "Outros / Imprevistos",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
       "hash_id": "079a26fee1730b233b981ec0d4bc26a5",
       "colaborador": "Sinvaldo",
       "data_ausencia": "2026-08-10",
@@ -173,6 +963,56 @@
       "arquivo_origem": "email_agosto_2026.pdf"
     },
     {
+      "hash_id": "00e308da04633bedb47f152b4e6a10fe",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-08-11",
+      "turno": "Tarde",
+      "motivo_original": "- Ronney – Informou se ausentar terça feira, dia 11/08/26, período da tarde. – Foi ao dentista. Solicitação e orientações anexas.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "79ceb60a85129a1722235e48314da544",
+      "colaborador": "Sinvaldo",
+      "data_ausencia": "2026-08-11",
+      "turno": "Tarde",
+      "motivo_original": "- Sinvaldo – Informou se ausentar terça feira, dia 11/08/26, período da tarde. – Foi a autoescola. Solicitação e orientações anexas.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "d45ca5bea066f2e92cb1c12e348b567e",
+      "colaborador": "Ronney",
+      "data_ausencia": "2026-08-13",
+      "turno": "Tarde",
+      "motivo_original": "- Ronney – Informou se ausentar quinta-feira, dia 13/08/26, período da tarde. – Foi ao dentista, teve que retirar o dente. Solicitação e orientações anexas.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "9990c8694b2b8a6cd42e5454156a7085",
+      "colaborador": "Edivaldo",
+      "data_ausencia": "2026-08-14",
+      "turno": "Tarde",
+      "motivo_original": "- Edivaldo – Informou se ausentar sexta-feira, dia 14/08/26, período da tarde. – Foi fazer o saque do FGTS que a esposa deixou. Solicitação e orientações anexas.",
+      "categoria": "Motivo Pessoal/Familiar",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
+      "hash_id": "f2b1d5196d8aaa07f381c13abe0e658e",
+      "colaborador": "Marcelo",
+      "data_ausencia": "2026-08-14",
+      "turno": "Tarde",
+      "motivo_original": "- Marcelo – Informou se ausentar sexta-feira, dia 14/08/26, período da tarde. – Foi a consulta médica. Solicitação anexa e orientações anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
+    },
+    {
       "hash_id": "1c522a09f58c004ec4ef068be18b57a6",
       "colaborador": "Vinícius",
       "data_ausencia": "2026-08-14",
@@ -181,6 +1021,16 @@
       "categoria": "Banco de Horas / Folga",
       "comprovante": "Não",
       "arquivo_origem": "email_agosto_2026.pdf"
+    },
+    {
+      "hash_id": "b3b3916e1705d480773474fab992811a",
+      "colaborador": "Francisco",
+      "data_ausencia": "2026-08-17",
+      "turno": "Manhã",
+      "motivo_original": "- Francisco – Informou se ausentar hoje, dia 17/08/26, período da manhã. – Foi ao médico. Solicitação anexa e orientações anexa.",
+      "categoria": "Consulta/Exame Médico",
+      "comprovante": "Sim",
+      "arquivo_origem": "Microsoft Outlook - Estilo de memorando.pdf"
     }
   ]
 }
